@@ -5,7 +5,7 @@
 Notice the hash-tags ###? Those are H1-H6 tags! One # being the largest font and H6 being the smallest. -->
 
 <!-- Give it a title -->
-# Forest Mock Website
+# Project Title Here
 
 <!-- Make this intro paragraph your own. Give it lots of detail and specify your intentions and goals for future (V1, V2 additions) -->
 #### Hello! This project is part of a multi-part mock website series in which I try to simulate existing websites to brush up on my UX & UI design skills. These mock versions will mostly be done in basic HTML CSS, using Figma wireframes and a touch of JS if needed. 
