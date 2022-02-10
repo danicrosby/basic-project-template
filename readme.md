@@ -10,9 +10,9 @@ Notice the hash-tags ###? Those are H1-H6 tags! One # being the largest font and
 <!-- Make this intro paragraph your own. Give it lots of detail and specify your intentions and goals for future (V1, V2 additions) -->
 #### Hello! This project is part of a multi-part mock website series in which I try to simulate existing websites to brush up on my UX & UI design skills. These mock versions will mostly be done in basic HTML CSS, using Figma wireframes and a touch of JS if needed. 
 
-#### I incorporate tools I've learned from Kevin Powell's CSS Demystified course and Nashville Software School's Front-End and UX/UI Product courses. 
+#### I incorporate HTML & CSS tools I've learned from Nashville Software School's UX/UI Digital Product Design course..... 
 
-#### In the V2 build, I hope to incorporate smoother responsive design with Bootstrap and more complicated CSS to deepen my knowledge. Please enjoy!
+#### In the V2 build, I hope to incorporate .... Please enjoy!
 
 <!-- Include all the reference links to show off your finished work along with your though process like wireframes and project boards. -->
 ## Relevant Links
